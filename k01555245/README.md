@@ -12,4 +12,5 @@ Waizenkirchen hat auch vier Feuerwehren:
 * FF Unterheuberg
 * FF Stillfüssing
 
+[[img src=Wappen_at_waizenkirchen.jpg alt=foobar]]
 ![Das ist das alt-Attribut für mein Bild](https://de.wikipedia.org/wiki/Waizenkirchen#/media/File:Wappen_at_waizenkirchen.jpg "Hier noch ein title-Attribut") 
